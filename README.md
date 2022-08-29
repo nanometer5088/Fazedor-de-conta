@@ -1,6 +1,5 @@
-# Avaliação Continuada 1 – Análise exploratória dos dados
-
-Um programa para realizar operações matemáticas com uma lista definida pelo usuário.
+ # Realiza operações matemáticas com uma lista definida pelo usuário.
+Realizado como um projeto de faculdade de Análise de Dados
 
 Recursos atuais:
 
