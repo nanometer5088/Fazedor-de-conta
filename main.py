@@ -1,6 +1,6 @@
 def main():
     from src.init import inicio as init
-    lista = [8,4,5,1,3,7,5,3,3,4,9,7,3,2,2] # init()
+    lista = init()
     x = 0
     while x != 11:
         x = int(input("\nQual operação desejas fazer:\n1= Mediana\n2= Media\n3= Moda\n4= Amplitude\n5= Quartil\n6= Variância\n7= Desvio Padrão\n8= Coeficiente de Variação\n9= Histograma\n10= Box Plot\n"))
