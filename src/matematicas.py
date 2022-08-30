@@ -1,3 +1,4 @@
+#O código do python das respectivas operações está comentado, em favor das minhas próprias versões
 def mediana(lista):
     #import statistics
     #return statistics.median(lista)
