@@ -1,6 +1,4 @@
  # Realiza operações matemáticas com uma lista definida pelo usuário.
-Realizado como um projeto de faculdade de Análise de Dados
-
 Recursos atuais:
 
 * Mediana
